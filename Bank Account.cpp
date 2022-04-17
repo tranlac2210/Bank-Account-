@@ -101,27 +101,3 @@ void Menu(Saving& saving, Checking& checking)
 
 	} while (choice != 6);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
